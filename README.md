@@ -15,7 +15,7 @@
   <a href="mailto:y.t.hantash@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-- 🔭 I’m currently working on **Real Estate Projects**
+- 🔭 I’m currently working on **Real Estate Project**
 - 🌱 I’m learning **React.js** to enhance my skills
 - 📫 Reach me at **y.t.hantash@gmail.com**
 
