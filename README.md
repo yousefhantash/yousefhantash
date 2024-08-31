@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on **Real Estate Project**
-- 🌱 I’m learning **React.js** to enhance my skills
+- 🌱 I’m learning **MERN Stack** to enhance my skills
 - 📫 Reach me at **y.t.hantash@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
